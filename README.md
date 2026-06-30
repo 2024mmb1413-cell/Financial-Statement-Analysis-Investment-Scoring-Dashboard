@@ -37,3 +37,8 @@ streamlit run app.py
 * Forecasting and predictive analytics
 * Additional financial ratios
 * Live financial data integration
+## Below are some example screenshots
+<img width="1407" height="693" alt="WhatsApp Image 2026-06-30 at 3 01 15 PM" src="https://github.com/user-attachments/assets/c78309dc-4374-4962-93f8-551e02c71a90" />
+<img width="1407" height="693" alt="WhatsApp Image 2026-06-30 at 3 01 30 PM" src="https://github.com/user-attachments/assets/b59cc9ff-d717-45e6-b580-7247ea2ea439" />
+<img width="1407" height="693" alt="WhatsApp Image 2026-06-30 at 3 02 00 PM" src="https://github.com/user-attachments/assets/7e56b38e-5a54-4bdb-8fdc-8ab3747f0533" />
+<img width="1407" height="693" alt="WhatsApp Image 2026-06-30 at 3 08 17 PM" src="https://github.com/user-attachments/assets/34f1383a-5c20-4ab9-b931-d888fc156a67" />
